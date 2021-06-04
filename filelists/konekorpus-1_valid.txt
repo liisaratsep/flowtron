@@ -1,0 +1,180 @@
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_809_lause_4.wav|venemaal paisati eetrisse tema väidetav telefonikõne jaroslavlis elava nõoga.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_121_lause_21.wav|näeme, et valdav enamus neist hindab professionaalset meediat usaldusväärseks uudisteallikaks ja ei pea alternatiivset meediat professionaalsest meediast usaldusväärsemaks.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003950/eki_et_mls_003950055.wav|mitu päeva oli vihma udutanud, aga nüüd pöördus tuul ja taevas tõmbus selgeks.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1203_lause_1.wav|narva jõesuu spaa nooruse vastu kerkib lähiajal korterhotell.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_97_lause_6.wav|hiljem tööde ala laieneb ka lossi tänavale.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_668_lause_4.wav|esinevad kirjandusteadlane mart velsker, luulebänd utoopia ja loomulikult kriitikaauhinna laureaat.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_637_lause_47.wav|allikas, eesti tinnituse ja menierei ühing|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_158_lause_8.wav|trump on kaalunud sanktsioonide leevendamist venemaa vastu.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause01964.wav|ja väike villane mütsike punaste tikitud lilledega üle külvatud.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_79_lause_0.wav|hea uudis mereelukatele, euroopa parlament otsustas mitmed ühekordsed plasttarvikud keelata|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause04435.wav|ta tahtis mulle rõõmu teha.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1126_lause_8.wav|pärastlõunal poetab mõnes kohas vihmasabina.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_155_lause_3.wav|kaks vooru enne hooaja lõppu on neil seitsekümmend seitse punkti, liverpoolil aga seitsekümmend kaks ja ühe mängu vähem pidanud tottenham hotspuril seitsekümmend üks silma.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_127_lause_8.wav|tema konkurent amirkhan umajev esitas kõigile tuttava ooperpala "time to say goodbye", mille originaalselt esitas andrea bocelli.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_67_lause_3.wav|üks abielupaar maksis seal nelisada kolmkümmend kolm tuhat dollarit parkimiskoha eest ja müüs selle edasi tunduvalt kallimalt ja seda vaid üheksa kuud hiljem.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_2_lause_3.wav|lisaks võib treeningu efektiivsuse seisukohalt omada mõju ka hommikune või õhtune treenimine.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1017_lause_4.wav|katar lahkub organisatsioonist uue aasta alguses ehk vähem kui kuu aja pärast.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001500/eki_et_mls_001500066.wav|otseteed jooksis ta koju, ilma et oleks mõelnud, kuhu loomad jäävad või mis nendega saab.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/002020/eki_et_mls_002020110.wav|nõnda siis tõusidki vargamäe mehed.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1000_lause_6.wav|eesti bändidel on oma kontserdi tegemisega raskusi, ikka esinetakse ööklubis või mingi muu ürituse raames.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_otsekone/lause00788.wav|"kas teadsid, et maailma parimat kuuma šokolaadi saab siin, pariisis?"|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_280_lause_0.wav|endine arsenali ja manchester unitedi ründetäht lõpetab karjääri|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_222_lause_1.wav|sel aastal kuuekümne neljas korda toimuv oberhauseni festival on maailma vanimaid ja juhtivaid lühifilmide festivale.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_466_lause_6.wav|ligi viitas veel, et reformierakonna algatust kehtestada kõigile ühtlane viiesajaeurone maksuvabastus on keskerakond arvamusartiklites kritiseerinud kui rikaste soosimist.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001810/eki_et_mls_001810148.wav|"näh, naine on ju peres, juba kevadest saati," seletas eit.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_408_lause_1.wav|selleks analüüsis ta andmeid, mille uuringufirma saar poll kogus eestis kahe tuhande viieteistkümnendal aastal rahandusministeeriumi finantskirjaoskuse uuringu jaoks.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_359_lause_2.wav|keskkonnaagentuuri andmetel on alates kahe tuhande seitsmeteistkümnenda aasta augustist kuni käesoleva ajani olnud üle eestiliselt järjepidevalt väga sademeterohked ilmastikuolud, teatas keskkonnaministeerium.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_207_lause_7.wav|ma ei oleks eales arvanud, et minu rinnavähk inimestele nii palju korda läheb.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_104_lause_2.wav|laura mallene|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001200/eki_et_mls_001200017.wav|aga pearu tuli ise.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_549_lause_16.wav|embiidi kohta on veel häirivamalt ühelt kontolt kirjutatud, et teda tuleks rohkem tiimi huvides ära kasutada.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_530_lause_21.wav|ta toob näite ühest hiiglaslikust veinilaost inglismaal, kust käis läbi kakskümmend viis protsenti suurbritannia veinist.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_798_lause_8.wav|resultatiivsed söödud andsid ragnar hindrek russ, jaanus sorokin ning nikita tsyganov.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1241_lause_4.wav|ukraina president petro poroshenko nimetas parlamendis toimud hääletust lakmustestiks, kas riik on suuteline korruptsiooniga võitlema ning tõdes pärast hääletust, et tegemist on ukraina võiduga.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_788_lause_2.wav|eelmise aasta lõpetas olympic entertainment group kolmekümne koma kuue miljoni eurose puhaskasumiga, mida on veidi rohkem kui kahe tuhande kuueteistkümnendal aastal.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1218_lause_7.wav|need on noored, kes vatmann murutari sõnul tavaharidusse ei kvalifitseeru, aga nende laagrites saavad suurepäraselt hakkama näidendite kirjutamisega.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001200/eki_et_mls_001200177.wav|saunakambri!|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_255_lause_1.wav|samad, mis igas piirkonnas, julgeolek, tehnoloogia, keskkond, majanduskasv, mis tahes veel.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_701_lause_6.wav|operatsiooni käigus arreteeriti kolm meest ja üks naine.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003512/eki_et_mls_003512063.wav|kõik põle küll minu tehtud, neil enestel on ju õiged tööinimese käed otsas, aga kas mina põle neid nii palju aidand, kui vähegi võimalik.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_766_lause_3.wav|ja seda igas mõttes.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_770_lause_2.wav|ühe mängu pikkuseks on kümme minutit.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_709_lause_14.wav|pääru tunnustuseks tuleb öelda, et ta on hiiglama hästi informeeritud.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001000/eki_et_mls_001000161.wav|map uskunudki.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003910/eki_et_mls_003910094.wav|"teisepere, isa, astuge lähemale, siis näete ka teie, kui ilusti vesi jookseb, tammi mättad löövad aina lipsu jõe poole pistes."|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1058_lause_2.wav|eesmärgiks on vaadata pinnalt natuke sügavamale ja samas üldistada, ühildades iga teosega ka mõistatuse.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_328_lause_4.wav|kadakane kepp seinal hoiab eemal pahatahtlikke salajõude.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_598_lause_6.wav|sobis valatult.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_740_lause_11.wav|õliühingus on kolmteist liiget, kelle tegevusaladeks on mineraal ja biokütustega tegelemine.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1066_lause_8.wav|ühe pakkujaga mitmest, kelle pakkumuse ee aa ess hankemenetluse käigus tagasi lükkas, käis ee aa ess ka kohut.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_297_lause_15.wav|kokkuvõttes on siin järjekordne tõestus sellest, kui veidras maailmas me elame.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_230_lause_0.wav|türgi president prognoosib globaalset "sõda risti ja poolkuu vahel"|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_682_lause_4.wav|puue ei takistanud griffinit aga spordiga tegelemast ega seal tippu jõudmast.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001620/eki_et_mls_001620026.wav|sest kui ta mõni nädal hiljem tuisuse ilmaga hilja õhtul kõrtsist koju tuli, peeti ta teel kinni ja anti talle niisugune keretäis, et tal vaevalt veel hing sisse jäi.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_309_lause_5.wav|oluline on tuua kaks autot võimalikult heade kohtade peal finišisse.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001200/eki_et_mls_001200029.wav|"sealsamas, kus sinulgi."|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_577_lause_4.wav|ta rõhutas, et läänemeelsed ja venevastased meeleolud kasvavad ukrainas iga mööduva kuuga.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause01124.wav|nii paljusid asju, mida ma pole enne märganud.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003910/eki_et_mls_003910044.wav|"lähen torkan ta eest ära," vastas andres.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_659_lause_9.wav|kui nad teevad ettepaneku propagandaaparaadi arvelt raha võtta heakorraks ja linnaelanikele, siis seda olema nõus arutama.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause03740.wav|aga sellest sai rutiin.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_137_lause_3.wav|eksamid pole mõeldud mitte kiusamiseks, vaid hoopis teadmiste ja eneseusu kasvatamiseks.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1193_lause_5.wav|kõik see ilmselgelt viitab edasimüümisele, mida kahtlustatavad ka tunnistasid", lisas abiprokurör listov.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_591_lause_11.wav|see identiteet tuleb tagasi saada.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_534_lause_7.wav|koos on treenitud vaid loetud päevad.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_757_lause_40.wav|aga vahel võib ka omaenda mõtetele stopp öelda, kuhu me nii väga kiirustame?|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_572_lause_5.wav|selle käigus on aivar rehe, varasemalt hea pressiga suhtleja, andnud esmalt eksitavat infot, seejärel kadunud üldse avalikkuse orbiidilt ning pole andnud selgitusi.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_930_lause_15.wav|ungari parlament hääletab eelnõu üle teisipäeval.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause02792.wav|nad kandsid sarnase mustriga riideidki, samuti olid nad ühtemoodi valjuhäälsed ja pidurdamatud.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_603_lause_6.wav|raimond ellik on sõrvemaa põllumees ja alatine vikerraadio kuulaja.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003410/eki_et_mls_003410049.wav|isa räägib alati sinu ema heledast häälest.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_353_lause_34.wav|ta ise nimetas neid rentnikeks, aga neil tundus olevat väga vähe huvi korteri, kuid palju meie vastu.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_183_lause_13.wav|šveitsi võistkond sõitis koosseisus elisa gasparin, lena haecki, benjamin weger ja jeremy finello.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_194_lause_0.wav|kavanaugh süüdistaja tänab toetajaid rohkete dollarite eest|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/002712/eki_et_mls_002712011.wav|seepärast kutsuti tema kui üleaedne kogu oma perekonnaga, sulane ja tüdruk kaasa arvatud.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001710/eki_et_mls_001710053.wav|aga nurganaine ise ei lausunud sõnagi, nagu ei puutuks asi enam temasse.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_433_lause_3.wav|seni on kõik hästi sujunud.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_460_lause_28.wav|"mina ei oleks nii üleolev", vastas seeder.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_374_lause_15.wav|hiljuti korraldas ansambel uu, vee err kontserdi, kus eesti noorte heliloojate uudisteoseid sai kuulata koos vee err peaseadmest visuaalidega.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_25_lause_3.wav|siis tuli kriis ja kahe tuhande kuueteistkümnenda aasta suveks kukkus piima kokkuostuhind nelja tuhandelt eurolt kahe tuhande kolmesaja kolmekümnele eurole tonni eest, kirjutab tänane lääne elu.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_391_lause_4.wav|siinne tugev ee riigi kompetents ja ettevõtjasõbralik keskkond on kogu maailma mastaabis väga atraktiivsed.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_397_lause_2.wav|üritusele oodatakse nii rallifänne kui ka peresid.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_492_lause_4.wav|lende ei olnud esimesel jaanuaril.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1028_lause_0.wav|võimupartei juht, rumeenia kolib iisraeli saatkonna jeruusalemma|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_161_lause_2.wav|kaksisvee kaa enn dee festival oy netokäive oli eelmisel aastal umbes üheksa miljonit eurot ning kasum seitsekümmend viis tuhat eurot.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_779_lause_7.wav|edasine on segane.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause04688.wav|ma lugesin edasi.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_946_lause_2.wav|jalgrattur viidi põhja eesti regionaalhaiglasse.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause01165.wav|siis arvasid vennad, et nende kõhud on juba piisavalt alanenud, et jõekääru suplema minna.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_12_lause_1.wav|postimehe spordiuudistemagasin "spordireporter" keskendub eesti tennisistide avaringi kohtumistele wimbledoni meistrivõistlustel.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_493_lause_1.wav|ma ei oleks jõudnud siia kus ma praegu olen kui ma poleks düsleksik.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_57_lause_3.wav|seda tõestas ka kakoumpavase võimas etteaste möödunud number one fight showl, kui ta oli kindlalt üle moisari endisest rivaalist max spodarenkost.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1255_lause_0.wav|homsest asub kaitseväe juhatajana tööle martin herem.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_761_lause_33.wav|kaks masti, purjepind kakskümmend seitse koma seitsekümmend viis ruutmeetrit|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_784_lause_1.wav|may pidas neljapäeval valitsuse liikmetega kaheksatunnise arutelu, milliseid majandussuhteid nad tahavad suurbritanniale euroopa liiduga pärast lahkumist ühendusest kahe tuhande üheksateistkümnenda aasta märtsis.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_811_lause_3.wav|kuigi nüüd ei ole vastasseis tehase rajamise asjas enam nii terav, on loengute teemad aktuaalsed endiselt.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1040_lause_5.wav|vaata kvalifikatsiooni tipphetki videost!|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_108_lause_12.wav|järgmisel aastal juba kuuekümnendat sünnipäeva tähistav klassikaline barbie nukk vallutab väikeste tüdrukute südameid praeguseni.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_998_lause_1.wav|rennisõidu kvalifikatsioon on sellega lõppenud.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_433_lause_8.wav|seetõttu on aga ka ninasarvikud järgmisele võimalikule purskele ja sellele järgnevale hiidlainele jätkuvalt väga avatud.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_176_lause_12.wav|meil on väga hea meel, et saame selle projekti ellu viia koostöös soome laevatehasega, pakkudes väärtuslikke töötunde ja koostöövõimalusi mitmetele eesti ja soome ettevõtetele ja tarnijatele.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001300/eki_et_mls_001300073.wav|ei lausutud ainustki sõna.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_100_lause_0.wav|viljar voogi kommentaar, eestlane pole kunagi olnud eff üks sarjale nii lähedal|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause00640.wav|või see ainult tundus mulle nii.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_685_lause_0.wav|eestlased elavad oma kurjust klienditeenindajate peal välja|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_766_lause_8.wav|selleks neid kraave rajatakse, et tee muldkehast välja viia vesi.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause00132.wav|tegelikult nägin ma ahelat juba ammu, kuid endiselt ei teadnud ma, kuhu see mind viib.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_299_lause_10.wav|ma isegi ei tea, mida ta teeb kas ta sõidab rallikrossi?|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause03665.wav|huvitav, kas see, et süda tagus otse peopesal, oli sõrmeotstest tunda?|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_otsekone/lause00367.wav|ta on asjadel sarvist kinni võtnud, selles võid surmkindel olla.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause00612.wav|ta oleks tahtnud vaadata oma iidolite lesli hauördi ja gari granti pilte ja lihtsalt tunda end mõnusalt.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_504_lause_1.wav|pärast seda, kui ohutase tõsteti kahekümne teisel septembril kõrgeimale astmele, evakueerus piirkonnast rohkem kui sada nelikümmend tuhat inimest.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_272_lause_16.wav|põlva serviti alistas teises poolfinaalis põlva kaldkriips arcwoodi|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_695_lause_3.wav|huvitava faktina oli austraalia ralli hooaja jooksul ainus, kus ei jõudnud pjedestaalile ei sebastien ogier, thierry neuville ega ott tänak.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_214_lause_5.wav|pean agressiivselt mängima ning mitte laskma tal mängida.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1205_lause_3.wav|paraku on selle ärihoone esimesel korrusel toitlustusettevõte, populaarne pubi kuus teist kannu, kus müüakse ka alkoholi.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001200/eki_et_mls_001200090.wav|poiss ei vastanud nüüdki, vaatas ainult nagu etteheitvalt tüdrukule otsa, nii et see ta seks korraks rahule jättis.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003110/eki_et_mls_003110017.wav|laskis ta peale seda kaseladvast lahti, siis lõi see enda kui vedruteras uuesti üles, roni kas või jällegi latva ja tule temaga alla.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_464_lause_10.wav|seda ma oma tütrele püüangi õpetada.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_879_lause_0.wav|reporter, viljandis tehti ajalugu!|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause00334.wav|ma olin tema peale nii vihane, mõtlesin sageli, et ta ei taha mind enam kunagi näha.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1169_lause_3.wav|kakskümmend aastat oma unistuse nimel tööd teinud meest tabas aga valus tagasilöök, kui patendivolinikud keeldusid talle patenti väljastamast.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_268_lause_15.wav|õnne ja pikka iga eestile!|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_781_lause_13.wav|saadusega ravitakse hiina enam kui nelja tuhandes haiglas umbes nelikümmend miljonit haiget.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_163_lause_4.wav|eesti rikaste maailmas on alamäe tegelikult suhteliselt tagasihoidlik tegija.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001720/eki_et_mls_001720035.wav|"liig pikk ja peenike vargamäele," ütles aaseme eit elutargalt.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003322/eki_et_mls_003322160.wav|"ega mul nüüd enam maksagi risti teha."|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_730_lause_8.wav|me ei saa pead liiva alla pista ja loota, et ehk ränne lakkab ka koos sellega olemast.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/000900/eki_et_mls_000900095.wav|"minul?!" hüüdis pearu.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/000900/eki_et_mls_000900146.wav|ette oli krõõt oma last armastanud ja tema pärast rõõmu tundnud.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_672_lause_8.wav|pärnust jõuab näitus viljandisse ja seejärel tallinna.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_513_lause_2.wav|talle järgnesid sakslased felix hoffmann, sada kolmkümmend kuus emm, sada kaheksateist koma kaheksa pee, ja martin hamann, sada nelikümmend kaks emm, sada kaheksateist koma seitse pee.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_676_lause_2.wav|pankurite sõnul mitte varem kui koos on kakskümmend viis miljonit dollarit, kirjutab celebrity net worth.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001000/eki_et_mls_001000130.wav|ei kulunudki palju aega, varsti tuli asi kätte, nagu saunaeit oli ennustanud.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause03307.wav|kõht oli jõudnud tühjaks minna, aga söömisega ta aega ei raisanud, seda jõudis hiljem küllalt teha.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003920/eki_et_mls_003920054.wav|"kes võeras laenab lapsele raha?"|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_169_lause_3.wav|teise jõulupüha kontserdil kuulemegi valitud palu reinu ja oti ühiselt albumilt ning sekka ka maestro teisi ajatuid ning rahva südames oma koha leidnud igihaljaid meloodiaid.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003920/eki_et_mls_003920020.wav|isa tahaks pojale mõista anda, kui väga ta alles vanema inimese juhtimist vajab, ja ütleb sellepärast,|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause00481.wav|ma võtsin tal käest kinni ja me läksime aeglaselt läbi jaamahoone.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause03581.wav|ja ta esitas küsimusi.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_399_lause_4.wav|sellest on nüüd kakskümmend viis aastat, kui telekast tuli esimene "õnne kolmteist" lugu.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001710/eki_et_mls_001710089.wav|nõnda kestis see tükk aega.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1022_lause_17.wav|soome peaminister juha sipilä usub, et see võis olla tahtlik ja et selle taga oli venemaa, kuna selline võimekus on venemaal teadaolevalt olemas.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_jutustav/lause04451.wav|osa aga teeb seda teadlikult.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_389_lause_11.wav|see on koht, kus aeg seisab.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_32_lause_1.wav|ee err erri saadet ringvaade väisas täna oleg sõnajalg, kelle poeg taavi sõnajalg eelmisel nädalal keset tallinna südalinna kakluse järel oma vastast tulistas.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_815_lause_8.wav|kuidas kõik täpselt toimus, saad pikemalt lugeda saarte häälest.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_8_lause_0.wav|põlvkondi ühendav linnaruum|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001120/eki_et_mls_001120068.wav|"ei taha," vastas pearu.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_552_lause_3.wav|nimekirjas on lood, mis on läinud nii palju korda, et olen need kitarril või klaveril selgeks õppinud ja salaja kodus vahel iseendale või abikaasale mängin", selgitab muusik.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_195_lause_10.wav|donna lugu juhtus mitukümmend aastat tagasi, aga ta ei ole oma saatuses üksi.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_880_lause_0.wav|euro odavneb koos kullaga|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/001610/eki_et_mls_001610038.wav|kooke ja munaputru oli nõnda palju, et sõi mari ise, sõi juss ja sai maitsta tädigi oma vanamehega.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_10_lause_5.wav|esialgu on ronaldo mõtetes siiski jalgpall.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_175_lause_5.wav|lisaks on näitusel ka masin, mis annab võimaluse võrrelda end ee tee vee kõigi telenägudega, mil moel, selgub juba kohapeal.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_886_lause_0.wav|läinud aasta lõpus ilmsiks tulnud estonian celli letipea neeme naabruses meres asuva heitveetoru lekke tõttu alustas keskkonna, inspektsioon ettevõtte suhtes haldus ja väärteomenetlust.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003210/eki_et_mls_003210073.wav|andres ehitas endale jõessaarde eluhooned ja karjalaudadki, kõik lepapuust ja koerakaela, nurkadega, nagu ta seda nägi jõe ääres küünidel.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/003220/eki_et_mls_003220167.wav|nukrad rabad seisid pihlaka punaste marjakobaratega kõrvu, mis nõtkusid rammalt.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_367_lause_42.wav|eks me arene oma väikese klubiga ja vaatame, mida aeg toob.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_588_lause_4.wav|"omal ajal tehti kontoreid kuhu iganes, ent kadrioru pargi veerel, kumu külje all, kaunite vaadetega linnale, merele ja rohelusele, on koht selgelt hoopis kodudel", lisas otsa.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_556_lause_9.wav|muusika on olnud elina kirg juba lapsest saati ning ooperimaailma avastas lauljanna enda jaoks kuuldes verdi ooperit "la traviata" anna netrebko esituses.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1243_lause_6.wav|teisipäeval selgitavad grupi võitja holland ja hiina.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_757_lause_29.wav|algkoolilapsena ostsin kaasaantud söögiraha eest kolm läikivat kuuseehet need olid odavad ja tundusid ilusad.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Vesta/wavs/0001_art_172_lause_8.wav|ta ei soostunud avaldama, milline büroo sihtasutust vaidluses esindab, viidates konfidentsiaalsusnõudele.|3
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_otsekone/lause00075.wav|"aga jutt on inimestest.|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_130_lause_6.wav|tühjad maasikaletid austraalia toidupoes.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_110_lause_19.wav|mulle ei meeldi tööl aega maha võtta, vaid üritan edasi pingutada.|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_826_lause_10.wav|uu ess openil ei suutnud ma asju enda jaoks joonde saada ja matši võita või muuta seda vähemalt tasavägisemaks.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/KYLLI_Tartusse/Kylli_Reinumagi_otsekone/lause00849.wav|miks ma ei tundnud tookord suvel su õde ära?|4
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_227_lause_10.wav|nüüd samasse metsa sattudes mõistatasin tükk aega, mis ajast see noorendik siia tekkida võis.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_29_lause_3.wav|"asjadega tutvumine ja plaanide paikasaamine võtab aega", põhjendas värske nõukogu esimees toomas siitan, miks täna konkurssi välja kuulutamata jäi.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_589_lause_14.wav|avalikkus on küll kuulnud nimesid, aga midagi kindlat ei ole seni välja öeldud.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_1144_lause_24.wav|ii koht muinasjutukuningas, meeskond, elisa tamm, loreta sults, trevor nõmmik|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_42_lause_4.wav|läks aega pea sada aastat, kuni eestlased julgesid aadlikele vastu hakata.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1083_lause_3.wav|lihtne võileib ja hommikusöögikrõbinad seda ei tee.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/VALMIS_Meelis_Kompus_TODE_JA_OIGUS_I/002510/eki_et_mls_002510058.wav|see on hirmus, kui vähe on kõigil arusaamist kopli, vargamäe rõõmudest ja muredest, ükski ei pane neid mikski.|5
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Mari/wavs/0001_art_781_lause_0.wav|hiina kasvatatakse farmis aastas kuus miljardit prussakat|0
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_639_lause_3.wav|ent tormihoiatuse sauberist ferrarisse kolinud noormees vettelile kahtlemata andis.|2
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Kalev/wavs/0001_art_258_lause_6.wav|napoli femminile teenis itaalia serie tsee karikasarjas teise võidu, alistades derbimängus kaks null vapa virtus naiskonna.|1
+/gpfs/hpc/home/liisa92/tts/data_flowtron/Albert/wavs/0001_art_1190_lause_1.wav|lugu ise on lihtne.|2

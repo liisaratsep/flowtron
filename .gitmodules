@@ -6,3 +6,6 @@
 	path = apex
 	url = https://github.com/NVIDIA/apex
 	branch = master
+[submodule "text/tts_preprocess_et"]
+	path = text/tts_preprocess_et
+	url = https://github.com/TartuNLP/tts_preprocess_et.git

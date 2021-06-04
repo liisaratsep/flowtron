@@ -129,3 +129,44 @@ def english_cleaners(text):
     text = expand_abbreviations(text)
     text = collapse_whitespace(text)
     return text
+
+
+def estonian_character_cleaners(text):
+    import re
+    text = re.sub(r'[()[\]:;−­–…—]', r', ', text)
+    text = re.sub(r'[«»“„”]', r'"', text)
+    text = re.sub(r'[*\'\\/-]', r' ', text)
+    text = re.sub(r'[`´’\']', r'', text)
+    text = re.sub(r' +([.,!?])', r'\g<1>', text)
+    text = re.sub(r', ?([.,?!])', r'\g<1>', text)
+    text = re.sub(r'\.+', r'.', text)
+
+    text = re.sub(r' +', r' ', text)
+    text = re.sub(r'^ | $', r'', text)
+    text = re.sub(r'^, ?', r'', text)
+
+    return text
+
+
+def estonian_training_cleaners(text):
+    from text.tts_preprocess_et.convert import simplify_unicode
+    text = simplify_unicode(text)
+    text = estonian_character_cleaners(text)
+    text = basic_cleaners(text)
+
+    return text
+
+def estonian_cleaners(text):
+    """Estonian cleaners with full conversion of numbers, symbols, etc. to be used during inference"""
+    from text.tts_preprocess_et.convert import convert_sentence
+    text = re.sub(r'[`´’\']', r'', text)  # TODO: may not be advised but currently "See'p" -> "see pee"
+    text = re.sub(r'[()]', r', ', text)  # TODO: not pronunced in corpus
+    try:
+        text = convert_sentence(text)
+    except Exception as e:
+        print(str(e), text)
+
+    text = estonian_character_cleaners(text)
+    text = basic_cleaners(text)
+
+    return text
